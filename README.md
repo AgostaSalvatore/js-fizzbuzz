@@ -11,5 +11,5 @@ Abbiamo visto qualcosa di particolare che possiamo usare?
 
 1. scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 
-2. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano" Buon lavoro e buon divertimento! slightly_smiling_face:
+2. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano" Buon lavoro e buon divertimento! 
 I
